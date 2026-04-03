@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Flutter+%26+ASP.NET;AI+Explorer;Always+learning+new+things&center=true&width=500&height=50">
 </p>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/da0ade5d-a295-41e3-88f5-9418006a3959" width="50%" />
+  <img src="https://github.com/user-attachments/assets/da0ade5d-a295-41e3-88f5-9418006a3959" width="70%" />
 </div>
 
 ---
