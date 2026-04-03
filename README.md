@@ -9,9 +9,9 @@
 </p>
 
 ---
-<div align="center">
-  <video src="https://v1.pinimg.com/videos/iht/expMp4/a7/6b/89/a76b89d67980e8016dd6b37f73f988ba_720w.mp4" autoplay loop muted playsinline width="100%"></video>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 ## 👨‍💻 About Me
 
 - 💈 Building **Barber Booking App** (Flutter + ASP.NET Core)
