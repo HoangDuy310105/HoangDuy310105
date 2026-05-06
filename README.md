@@ -28,36 +28,6 @@
   <img src="https://i.pinimg.com/originals/28/51/95/2851952002599723cecdfb759160cc12.gif" width="500"/>
 </p>
 
----
-
-## 🧠 Tech Stack
-
-### 🚀 Main Skills
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,nodejs,react" />
-</p>
-
-### 🧩 Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,java,spring,graphql" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### 🗄 Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,postman,github" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
