@@ -12,14 +12,6 @@
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-- 💈 Building **Barber Booking App** (Flutter + ASP.NET Core)
-- 🤖 Working on **AI Face Scan & Hairstyle Suggestion**
-- 🔥 Passionate about building real-world products
-- 🎯 Goal: Become a Senior Fullstack Developer
-
 ---
 
 <p align="center">
@@ -37,15 +29,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-- 💈 **Barber Booking App**  
-  → Flutter + ASP.NET Core + SQL Server  
-  → Booking, Notifications, AI Face Scan
-
-- 🏡 **Homestay Management System**  
-  → ASP.NET MVC + SQL Server  
-  → Booking, Reviews, Admin Dashboard
 
 ---
 
