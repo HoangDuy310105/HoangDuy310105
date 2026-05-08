@@ -12,7 +12,6 @@
 </div>
 
 ---
----
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/28/51/95/2851952002599723cecdfb759160cc12.gif" width="500"/>
