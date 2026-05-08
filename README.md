@@ -26,12 +26,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangDuy310105&theme=radical" />
 </p>
 
----
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
